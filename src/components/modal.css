@@ -1,0 +1,24 @@
+.bg-orange{
+    background-color: #ffa500 !important;
+    color: white !important;
+}
+.bg-orange:hover{
+    background-color: #f09c00 !important;
+    color: white !important;
+    border:none !important
+}
+.bg-green{
+    background-color: rgb(51, 167, 51) !important;
+    color: white !important;
+}
+.bg-green:hover{
+    background-color: rgb(51, 167, 51) !important;
+    color: white !important;
+    border:none !important
+}
+.mt-3{
+    margin-top: 3rem !important;
+}
+.justify-between{
+    justify-content: space-between !important;
+}
